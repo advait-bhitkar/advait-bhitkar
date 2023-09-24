@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Android, Java, Kotlin**
 
-- 📫 How to reach me **advait@advaitbhitkar.com**
+- 📫 How to reach me **advait@bhitkae.dev**
 
-- 📄 Know about my experiences [https://advaitbhitkar.com/projects.html](https://advaitbhitkar.com/projects.html)
+- 📄 Know about my experiences [My Website](https://bhitkar.dev)
 
 - ⚡ Fun fact **I want to go to space.**
 
