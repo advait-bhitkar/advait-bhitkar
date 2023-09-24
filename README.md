@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Advait Bhitkar</h1>
 <h3 align="center">Computer science student with a love for building apps, seeking internship opportunities.</h3>
 
-- 🌱 I’m currently learning **PyTorch, NLP**
+- 🌱 I’m currently learning **Tensorflow, NLP**
 
 - 👨‍💻 All of my projects are available at [https://advaitbhitkar.com/projects.html](https://advaitbhitkar.com/projects.html)
 
