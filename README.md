@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, NLP**
 
-- 👨‍💻 All of my projects are available at [https://advaitbhitkar.com/projects.html](https://advaitbhitkar.com/projects.html)
-
-- 📝 I regularly write articles on [https://advaitbhitkar.com/blog.html](https://advaitbhitkar.com/blog.html)
+- 👨‍💻 All of my projects are available at [https://bhitkar.dev](https://bhitkar.dev)
 
 - 💬 Ask me about **Android, Java, Kotlin**
 
