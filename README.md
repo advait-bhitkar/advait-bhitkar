@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advait Bhitkar</h1>
-<h3 align="center">Computer science student with a love for building apps, seeking internship opportunities.</h3>
+<h3 align="center">Computer science student with a love for building apps.</h3>
 
 - 🌱 I’m currently learning **Tensorflow, NLP**
 
