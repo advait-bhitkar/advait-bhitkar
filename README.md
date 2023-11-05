@@ -38,10 +38,10 @@
 </p>
 
 <p align="center">
- <a href="https://advait-bhitkar.com" target="blank">
+ <a href="https://bhitkar.dev" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=writedotas&logoColor=white" alt="advait-bhitkar" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/advait-bhitkar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="advait-bhitkar"/>
  </a>
  <!-- <a href="https://dev.to/advait-bhitkar" target="_blank">
